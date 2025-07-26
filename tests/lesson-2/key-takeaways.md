@@ -103,3 +103,26 @@ số lần nhất định
 - Cú pháp: for(<khởi tạo>; <điều
 kiện dừng>; <điều kiện tăng>) {
 // code }
+# File markdown
+- File markdown có đuôi là .md 
+- Markdown là ngôn ngữ đánh dấu đơn giản, dễ học, được dùng để định dạng văn bản. Dưới đây là một số cú pháp cơ bản 
+1. Tiêu đề 
+Dùng `#` để tạo tiêu đề. <br> 
+Nhiều `#` hơn tạo tiêu đề nhỏ hơn. 
+- `# Tiêu đề 1 `
+- `## Tiêu đề 1 `
+- `### Tiêu đề 1 `
+2. In đậm và in nghiêng <br>
+Dùng `**` hoặc `__` cho chữ in đậm, và `*` hoặc `_` cho chữ in nghiêng. <br>
+- `**Chữ in đậm** `<br>
+- `*Chữ in nghiêng* `
+3. Danh sách <br>
+Danh sách có thứ tự dùng số, danh sách không thứ tự dùng dấu `-` hoặc `*`. <br>
+`1. Mục thứ nhất` <br>
+`2. Mục thứ hai` <br>
+`- Mục không thứ tự `<br>
+`* Mục không thứ tự `
+4. Đường dẫn và hình ảnh <br>
+Dùng []() để chèn liên kết và ![]() để chèn hình ảnh. 
+- `[Liên kết](https://example.com) `
+- `![Hình ảnh](https://example.com/image.jpg) `
